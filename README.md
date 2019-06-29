@@ -1,3 +1,9 @@
+Updates as of 30 June-19
+1. Concluded the session with Kurtosis
+2. Did the tooling session with R
+3. Provided two R- Do it yourself manuals : Please try out the code
+4. Project#1 Submission by Next Sunday (7-July-19)-Maybe an online class: Mrinal to clarify later
+
 Updates as of 29 June-19:
 1. Concluded the discussion of Discriptive statistics (Except for Kurtosis)
 2. Showed the procedure for download of R and RStudio
