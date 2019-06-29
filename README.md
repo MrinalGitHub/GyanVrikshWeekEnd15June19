@@ -1,3 +1,7 @@
+Updates as of 29 June-19:
+1. Concluded the discussion of Discriptive statistics (Except for Kurtosis)
+2. Showed the procedure for download of R and RStudio
+3. Tomorrow is a tooling class - Shall be staring with R
 
 Updates as of 23 June-19:
 1. Tabulation of data
