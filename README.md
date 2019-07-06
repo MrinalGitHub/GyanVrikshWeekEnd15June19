@@ -1,3 +1,8 @@
+Updates as of 06 July-19
+1. Finished the discussion on the descriptive analytics with R-Code
+2. Discussed the deliverables of the Project-I
+3. Introduction to sampling & Hypothesis testing
+
 Updates as of 30 June-19
 1. Concluded the session with Kurtosis
 2. Did the tooling session with R
